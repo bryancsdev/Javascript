@@ -4,4 +4,8 @@ const bryan = ('Bryan Campagnole');
 
 const primeiroNumero = 7;
 const segundoNumero = 291;
-const conta = primeiroNumero + segundoNumero;
+const resultado = primeiroNumero + segundoNumero;
+const resultadoDuplicado = resultado * 2
+let resultadoTriplicado = resultado * 3
+resultadoTriplicado = resultadoTriplicado + 5
+console.log(resultadoTriplicado)
