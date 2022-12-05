@@ -1,0 +1,7 @@
+/*
+ + Adiçao
+ - Subtração
+ * Multiplicação
+ / Divisão
+
+*/

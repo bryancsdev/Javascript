@@ -1,0 +1,10 @@
+let pai =('Bryan')
+let mae = ('Wesley')
+let filho = ('Enzo')
+let filho2 =(input)
+
+console.log(pai, 'Nasceu em 1984.')
+console.log('Em 2000', pai, 'Conheceu' , mae, '.')
+console.log(pai, 'casou-se com', mae, 'em 2012')
+console.log(mae,'teve um filho com',pai,'em 2015')
+console.log('O filho de',pai,'e',mae,'se chama',filho)
